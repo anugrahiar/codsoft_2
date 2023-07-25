@@ -1,0 +1,62 @@
+img{
+    height: 700px;
+    width: 100%;
+    filter: brightness(30%);
+    margin: 0;
+}
+.mal{
+    position: relative;
+    bottom: 700px;
+    left: 70px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.big{
+     text-align: center;
+     position: relative;
+     bottom: 500px;
+     font-size: 50px;
+     font-weight: bold;
+     font-family: 'Raleway', sans-serif;
+     color: white;
+}
+.quo{
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+   font-weight: bold;
+   font-size: 20px;
+   color: white;
+}
+.anu{
+    background-color: red;
+    width: fit-content;
+    position: relative;
+    left: 660px;
+    bottom: 480px;
+    padding: 0px 40px;
+    border: 1px solid white;
+    border-radius: 8px;
+    object-fit: cover;
+}
+.rai>a{
+    color: black;
+    opacity: 0.8;
+    text-align: center;
+}
+.arai>a{
+    display:inline-block;
+    font-size: 20px;
+    width: 100px;
+    color: orangered;
+    font-family: 'Oswald', sans-serif;
+}
+.arai{
+    position: relative;
+    left: 1000px;
+    bottom: 1025px;
+}
+.abc{
+    color: red;
+}

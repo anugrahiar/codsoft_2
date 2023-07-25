@@ -1,0 +1,74 @@
+.arai{
+    background-color: grey;
+    height: 1400px;
+    margin-top: auto;
+    
+}
+img{
+    height: 400px;
+    width: 400px;
+    float: left;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 2px solid white;
+}
+.anug{
+    position: relative;
+    top:40px;
+    left: 40px;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 25px;
+}
+.ADI{
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+.ara{
+    clear: left;
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+ul{
+    font-size: 25px;
+    background-color: lightblue;
+    
+}
+
+a{
+    color: red;
+    font-size: 30px;
+}
+.anugrah{
+    position: relative;
+    top: 100px;
+    left: 70px;
+}
+.a{
+    
+    position: relative;
+    top: 150px;
+    left: 70px;
+}
+
+.la{
+        height: 50px;
+        width: 50px;
+        position: relative;
+        bottom: 50px;
+        right: 40px;
+}
+.bc{
+    height: 150px;
+}
+.ne{
+    position: relative;
+    right: 100px;
+}
+a{
+    color: black;
+}
+
+
